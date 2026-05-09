@@ -1,3 +1,4 @@
+
 # foodtrack-db
 Esquema relacional para FoodTrack, una plataforma de gestión de operaciones de foodtrack en distintos puntos de una ciudad.
 
@@ -6,4 +7,4 @@ La base de datos contempla información de foodtrucks, productos, pedidos, ubica
 
 Diagrama relacional
 
-![Diagrama ER]("Diagrama ER.png")
+<img width="5149" height="4468" alt="Diagrama ER" src="https://github.com/user-attachments/assets/76004ff3-9f62-4aec-8b88-b191a92c24e5" />
