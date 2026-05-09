@@ -6,3 +6,4 @@ La base de datos contempla información de foodtrucks, productos, pedidos, ubica
 
 Diagrama relacional
 
+![Diagrama ER]("D:\Data Science\Módulo 2\Diagrama ER.png")
